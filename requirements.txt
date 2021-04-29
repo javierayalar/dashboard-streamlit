@@ -3,4 +3,4 @@ pandas==1.2.4
 plotly==4.14.3
 matplotlib==3.4.1
 Pillow==8.2.0
-xrld==2.0.1
+xlrd==2.0.1
