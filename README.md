@@ -2,6 +2,8 @@
 
 This web app illustrates the performance of the ticket system in at a Customer Service Center (CAC Larco).
 
+![](extra/dashboard.gif)
+
 **Streamlit** is an open-source app framework for Machine Learning and Data Science teams.
 
 ### Live
